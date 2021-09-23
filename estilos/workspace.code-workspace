@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Practica/Proyectos"
+		},
+		{
+			"path": "../../Practica/Proyectos/fizzbuzz"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Proyectos"
+	}
+}
