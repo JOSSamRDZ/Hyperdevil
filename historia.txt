@@ -2,4 +2,7 @@
 +Age: 27 years old.
 +Adress: 2074 old Yarhnam street, county of arkam, state of innistrad
 The old DARK MOON is the firt blood in your hands.
+
+Master 1
+
 voy agregar una vez mas esta version a la linea principal master
